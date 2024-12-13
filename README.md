@@ -19,7 +19,7 @@ In the project directory, you can run:
 
 Navigate to the project directory.
 
-### cd server
+### cd Backend
 
 Install the necessary dependencies by running the following command:
 
