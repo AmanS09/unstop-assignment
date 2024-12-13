@@ -33,7 +33,7 @@ Start the backend server using the following command:
 
 Navigate to the project directory.
 
-### cd client
+### cd Frontend
 
 Install the necessary dependencies by running the following command:
 
