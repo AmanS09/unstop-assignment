@@ -65,5 +65,3 @@ To run this project, you will need to add the following environment variables to
 **Client:** React, Chakra-UI
 
 **Server:** Node, Express, Mongoose, MongoDB-Atlas
-
-## Deployment Link
